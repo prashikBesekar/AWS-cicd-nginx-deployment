@@ -7,9 +7,6 @@
 
 ---
 
-(https://github.com/prashikBesekar/AWS-cicd-nginx-deployment/blob/main/images/AWS%202.png)
-
----
 ## 📌 Project Overview
 
 A **production-style CI/CD pipeline** that automatically deploys a web application to an **AWS EC2 instance** using **GitHub Actions** and **Nginx** as a reverse proxy server.
